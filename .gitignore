@@ -1,0 +1,9 @@
+ai/
+.vscode/
+__pycache__/
+.env
+.venv/
+venv/
+auto_db.sqlite
+backend/interviews.sqlite3
+interviews.sqlite3
